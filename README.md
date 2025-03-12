@@ -1,2 +1,3 @@
-#CCOMP-VincuLAR
-# CCOMP-Vincular
+#CCOMP-Vincular
+# Pablo Manuel Infantes Soto
+
